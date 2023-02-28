@@ -1,6 +1,6 @@
 
 <h1 align="center">:bust_in_silhouette: Hssen Youssef</h1>
-<h3 align="center">Junior web developer</h3>
+<h3 align="center">Junior web developer reaching cyber security path</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
